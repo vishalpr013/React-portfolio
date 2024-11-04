@@ -1,0 +1,29 @@
+.navbar:hover{
+    border-bottom: 3px solid yellow;
+    cursor: pointer;
+    color:yellow;
+    padding-bottom: 0.5rem;
+}
+.navbar1:hover{
+    border-bottom: 3px solid yellow;
+    cursor: pointer;
+    color:yellow;
+    padding-bottom: 0.5rem;
+}
+.nav{
+    border-bottom: 3px solid yellow;
+    cursor: pointer;
+    color:yellow;
+    padding-bottom: 0.5rem;
+}
+
+
+
+
+
+
+/* 
+
+nav hover:underline cursor-pointer decoration-yellow-500
+nav hover:underline cursor-pointer decoration-yellow-500
+btn hover:underline cursor-pointer decoration-yellow-500 */
